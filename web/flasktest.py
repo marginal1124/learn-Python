@@ -1,3 +1,4 @@
+#使用flask 框架写的一个web  app例子
 from flask  import Flask;
 from flask import request;
 
